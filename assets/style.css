@@ -1,0 +1,36 @@
+.nav-item {
+ position: relative;
+ left: 600px;
+
+}
+
+img {
+  margin: 10px !important;
+  margin-top: 10px;
+  radius: 10px;
+}
+
+.container-fluid {
+  background-image: url("../images/bg_image.jpg")
+}
+
+.footer {
+  text-align: center;
+}
+
+.jumbotron {
+background-color: transparent !important;
+}
+
+.row {
+  radius: 15px !important;
+}
+
+.card-img-top {
+  max-width: 250px;
+  align-items: center;
+}
+
+#profile {
+  max-width: 250px;
+}
